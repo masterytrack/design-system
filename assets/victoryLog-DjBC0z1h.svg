@@ -1,0 +1,224 @@
+<svg width="207" height="80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect y="1" width="207" height="79" rx="8" fill="#006CD0"/>
+    <g filter="url(#victoryLog_svg__filter0_f)">
+        <path d="M16.284 10.19l2.238 6.047 6.047 2.238-6.047 2.237-2.238 6.047-2.237-6.047L8 18.475l6.047-2.238 2.237-6.047z" fill="#fff"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter1_f)">
+        <path d="M63.23 23.537l1.242 3.36 3.36 1.243-3.36 1.243-1.243 3.36-1.243-3.36-3.359-1.243 3.36-1.243 1.242-3.36z" fill="#fff"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter2_f)">
+        <path d="M36.534 38.265l1.243 3.36 3.36 1.242-3.36 1.244-1.243 3.359-1.243-3.36-3.36-1.242 3.36-1.244 1.243-3.359z" fill="#fff" fill-opacity=".7"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter3_f)">
+        <path d="M171.846 23.998l2.735 7.39 7.39 2.735-7.39 2.735-2.735 7.39-2.735-7.39-7.39-2.735 7.39-2.735 2.735-7.39z" fill="#fff"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter4_f)">
+        <path d="M129.964 19.395l1.243 3.36 3.359 1.243-3.359 1.243-1.243 3.36-1.243-3.36-3.36-1.243 3.36-1.243 1.243-3.36z" fill="#fff"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter5_f)">
+        <path d="M45.049 14.332l.684 1.848 1.847.684-1.847.683-.684 1.848-.684-1.848-1.847-.683 1.847-.684.684-1.848z" fill="#fff" fill-opacity=".4"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter6_f)">
+        <path d="M47.352 60.817l.683 1.847 1.848.684-1.848.684-.683 1.847-.684-1.847-1.848-.684 1.848-.684.684-1.847z" fill="#fff"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter7_f)">
+        <path d="M159.19 64.959l.683 1.848 1.848.683-1.848.684-.683 1.848-.684-1.848-1.848-.684 1.848-.683.684-1.848z" fill="#fff"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter8_f)">
+        <path d="M196.469 29.98l.684 1.848 1.847.684-1.847.684-.684 1.847-.684-1.847-1.847-.684 1.847-.684.684-1.847z" fill="#fff"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter9_f)">
+        <path d="M181.281 9.27l.684 1.848 1.848.683-1.848.684-.684 1.848-.683-1.848-1.848-.684 1.848-.684.683-1.847z" fill="#fff" fill-opacity=".7"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter10_f)">
+        <path d="M141.24 51.152l1.802 4.87 4.871 1.803-4.871 1.803-1.802 4.87-1.803-4.87-4.871-1.803 4.871-1.802 1.803-4.871z" fill="#fff" fill-opacity=".7"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter11_f)">
+        <path d="M187.034 50.692l2.238 6.047 6.047 2.237-6.047 2.238-2.238 6.046-2.237-6.047-6.047-2.237 6.047-2.237 2.237-6.047z" fill="#fff" fill-opacity=".4"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter12_f)">
+        <path d="M76.577 42.868l1.989 5.374 5.375 1.99-5.375 1.988-1.99 5.375-1.988-5.375-5.375-1.989 5.375-1.989 1.989-5.374z" fill="#fff"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter13_f)">
+        <path d="M16.286 49.31l1.989 5.376 5.375 1.989-5.375 1.989-1.99 5.374-1.988-5.374-5.375-1.99 5.375-1.988 1.989-5.375z" fill="#fff" fill-opacity=".4"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter14_f)">
+        <path d="M111.095 14.332l1.243 3.36 3.359 1.243-3.359 1.243-1.243 3.36-1.243-3.36-3.36-1.243 3.36-1.243 1.243-3.36z" fill="#fff"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter15_f)">
+        <path d="M145.383 35.044l.684 1.847 1.847.684-1.847.683-.684 1.848-.684-1.848-1.847-.683 1.847-.684.684-1.847z" fill="#fff"/>
+    </g>
+    <path fill="url(#victoryLog_svg__paint0_linear)" d="M100 39.938h8v15.714h-8z"/>
+    <path transform="rotate(90 112 55.652)" fill="url(#victoryLog_svg__paint1_linear)" d="M112 55.652h3.929v16H112z"/>
+    <path transform="rotate(90 120 59.09)" fill="url(#victoryLog_svg__paint2_linear)" d="M120 59.089h11.786v32H120z"/>
+    <path fill="#BE7837" d="M116 66.947v-3.93H92v3.93z"/>
+    <path d="M82.227 16.08a1 1 0 01.982-1.187H94v3.192h-7.192l.692 4.174 1 4.91H93v3.438h-7.173a1 1 0 01-.982-.812L82.227 16.08z" fill="url(#victoryLog_svg__paint3_linear)"/>
+    <path d="M126.773 16.08a1 1 0 00-.982-1.187H115v3.192h6.013a1 1 0 01.986 1.164l-.499 3.01-1 4.91H116v3.438h7.173a1 1 0 00.982-.812l2.618-13.715z" fill="url(#victoryLog_svg__paint4_linear)"/>
+    <g filter="url(#victoryLog_svg__filter16_d)">
+        <path d="M116 29.134c0 6.509-5.373 11.786-12 11.786s-12-5.277-12-11.786V11.946h24v17.188z" fill="url(#victoryLog_svg__paint5_linear)"/>
+    </g>
+    <mask id="victoryLog_svg__a" maskUnits="userSpaceOnUse" x="92" y="11" width="24" height="30">
+        <path d="M116 29.134c0 6.509-5.373 11.786-12 11.786s-12-5.277-12-11.786V11.946h24v17.188z" fill="url(#victoryLog_svg__paint6_linear)"/>
+    </mask>
+    <g mask="url(#victoryLog_svg__a)">
+        <path fill="#9D4B00" fill-opacity=".1" d="M123.207 3.107l12.07 9.53-33.207 40.57L90 43.676z"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter17_d)">
+        <rect x="90" y="9.982" width="28" height="1.964" rx=".982" fill="url(#victoryLog_svg__paint7_linear)"/>
+    </g>
+    <g filter="url(#victoryLog_svg__filter18_dd)">
+        <path d="M104.162 18.59a.25.25 0 01.476 0l1.144 3.6a.249.249 0 00.238.174h3.711a.25.25 0 01.149.45l-3.012 2.24a.25.25 0 00-.089.276l1.148 3.616a.25.25 0 01-.387.276l-2.991-2.223a.25.25 0 00-.298 0l-2.991 2.223a.25.25 0 01-.387-.277l1.148-3.615a.25.25 0 00-.089-.277l-3.013-2.239a.25.25 0 01.15-.45h3.711c.109 0 .206-.07.238-.175l1.144-3.6z" fill="url(#victoryLog_svg__paint8_linear)"/>
+    </g>
+    <defs>
+        <filter id="victoryLog_svg__filter0_f" x="7" y="9.19" width="18.569" height="18.569" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter1_f" x="57.627" y="22.537" width="11.205" height="11.205" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter2_f" x="30.932" y="37.265" width="11.205" height="11.205" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter3_f" x="160.721" y="22.998" width="22.251" height="22.251" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter4_f" x="124.361" y="18.395" width="11.205" height="11.205" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter5_f" x="41.518" y="13.332" width="7.063" height="7.063" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter6_f" x="43.82" y="59.817" width="7.063" height="7.063" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter7_f" x="155.658" y="63.959" width="7.063" height="7.063" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter8_f" x="192.938" y="28.981" width="7.063" height="7.063" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter9_f" x="177.75" y="8.27" width="7.063" height="7.063" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter10_f" x="133.566" y="50.152" width="15.347" height="15.347" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter11_f" x="177.75" y="49.692" width="18.569" height="18.569" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter12_f" x="68.213" y="41.868" width="16.728" height="16.728" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter13_f" x="7.922" y="48.311" width="16.728" height="16.728" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter14_f" x="105.492" y="13.332" width="11.205" height="11.205" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter15_f" x="141.852" y="34.044" width="7.063" height="7.063" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="victoryLog_svg__filter16_d" x="90" y="11.946" width="28" height="32.973" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset dy="2"/>
+            <feGaussianBlur stdDeviation="1"/>
+            <feColorMatrix values="0 0 0 0 0.645833 0 0 0 0 0.3875 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+        </filter>
+        <filter id="victoryLog_svg__filter17_d" x="88" y="9.982" width="32" height="5.964" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset dy="2"/>
+            <feGaussianBlur stdDeviation="1"/>
+            <feColorMatrix values="0 0 0 0 0.645833 0 0 0 0 0.3875 0 0 0 0 0 0 0 0 0.25 0"/>
+            <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+        </filter>
+        <filter id="victoryLog_svg__filter18_dd" x="80.818" y=".415" width="47.164" height="46.857" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="1.5"/>
+            <feColorMatrix values="0 0 0 0 0.721569 0 0 0 0 0.270588 0 0 0 0 0.0156863 0 0 0 0.55 0"/>
+            <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+            <feOffset/>
+            <feGaussianBlur stdDeviation="9"/>
+            <feColorMatrix values="0 0 0 0 0.721569 0 0 0 0 0.270588 0 0 0 0 0.0156863 0 0 0 0.75 0"/>
+            <feBlend in2="effect1_dropShadow" result="effect2_dropShadow"/>
+            <feBlend in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+        </filter>
+        <linearGradient id="victoryLog_svg__paint0_linear" x1="104" y1="39.938" x2="104" y2="55.652" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D58C00"/>
+            <stop offset="1" stop-color="#FFB72B"/>
+        </linearGradient>
+        <linearGradient id="victoryLog_svg__paint1_linear" x1="112.491" y1="57.152" x2="118.768" y2="58.907" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFC70B"/>
+            <stop offset="1" stop-color="#FFFCAC"/>
+        </linearGradient>
+        <linearGradient id="victoryLog_svg__paint2_linear" x1="132.277" y1="75.589" x2="120.491" y2="75.589" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#7B3B00"/>
+            <stop offset="1" stop-color="#C88322"/>
+        </linearGradient>
+        <linearGradient id="victoryLog_svg__paint3_linear" x1="88" y1="14.893" x2="88" y2="30.607" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D58C00"/>
+            <stop offset="1" stop-color="#FFB72B"/>
+        </linearGradient>
+        <linearGradient id="victoryLog_svg__paint4_linear" x1="121" y1="14.893" x2="121" y2="30.607" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D58C00"/>
+            <stop offset="1" stop-color="#FFB72B"/>
+        </linearGradient>
+        <linearGradient id="victoryLog_svg__paint5_linear" x1="112.5" y1="38.464" x2="87.889" y2="16.567" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF9D0B"/>
+            <stop offset=".542" stop-color="#FFDC23"/>
+            <stop offset="1" stop-color="#FDFF96"/>
+        </linearGradient>
+        <linearGradient id="victoryLog_svg__paint6_linear" x1="112.5" y1="38.464" x2="87.889" y2="16.567" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF9D0B"/>
+            <stop offset=".542" stop-color="#FFDC23"/>
+            <stop offset="1" stop-color="#FDFF96"/>
+        </linearGradient>
+        <linearGradient id="victoryLog_svg__paint7_linear" x1="93.5" y1="10.166" x2="93.682" y2="13.127" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFC70B"/>
+            <stop offset="1" stop-color="#FFFCAC"/>
+        </linearGradient>
+        <linearGradient id="victoryLog_svg__paint8_linear" x1="99.6" y1="19.067" x2="109.448" y2="30.03" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFC70B"/>
+            <stop offset="1" stop-color="#FFFCAC"/>
+        </linearGradient>
+    </defs>
+</svg>

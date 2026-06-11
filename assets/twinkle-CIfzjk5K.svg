@@ -1,0 +1,12 @@
+<svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#twinkle_filter0_f)">
+<path d="M8.125 1L10.0494 6.25535L15.25 8.2L10.0494 10.1447L8.125 15.4L6.2006 10.1447L1 8.2L6.2006 6.25535L8.125 1Z" fill="white"/>
+</g>
+<defs>
+<filter id="twinkle_filter0_f" x="0" y="0" width="16.25" height="16.4" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur"/>
+</filter>
+</defs>
+</svg>

@@ -1,0 +1,1 @@
+import{f as r,t as a}from"./learningResourceFlatFriendFile-Duq2nfiS.js";const n=t=>({...r(t),topicName:t.catalog_topic?.name||"",tagsIds:t.learning_center_learningresource_tags.map(o=>o.resourcetag_id.toString())}),e=t=>({...a(t)}),c=t=>e(t),g={};export{c as a,n as f,g as h,e as t};

@@ -1,0 +1,6 @@
+<svg width="357" height="488" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 0h356v488l-182.5-66.066L0 488V0z" fill="#006CD0"/>
+    <path d="M0 0h356l.213 110.491L356 121.5l.213 11.321L356 256H0V0z" fill="#006CD0"/>
+    <path d="M0 0h356l.213 110.491L356 121.5l.213 11.321L356 256H0V0z" fill="url(#banner_svg__pattern0)" fill-opacity=".3"/>
+    <path d="M16 1v459l157.904-62.14L340 460V1" stroke="#61B3FF" stroke-width="6"/>
+</svg>

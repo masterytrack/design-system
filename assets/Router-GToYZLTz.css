@@ -1,0 +1,1 @@
+.ll-usage-visualization ._student-walk{position:absolute;bottom:0;left:0;animation:walkright 5s ease-in-out}@keyframes walkright{0%{transform:translate(-200px)}to{transform:translate(100vw)}}

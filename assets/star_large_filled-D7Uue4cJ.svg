@@ -1,0 +1,42 @@
+<svg width="56" height="59" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g filter="url(#star_large_filled_svg__filter0_i)">
+        <path d="M27.522 4.556a.5.5 0 01.956 0l5.25 17.093a.5.5 0 00.479.353h17.05a.5.5 0 01.304.896L37.72 33.534a.5.5 0 00-.174.544l5.275 17.171a.5.5 0 01-.783.544L28.305 41.238a.5.5 0 00-.61 0L13.96 51.793a.5.5 0 01-.782-.544l5.275-17.171a.5.5 0 00-.173-.544L4.44 22.898a.5.5 0 01.304-.896h17.05a.5.5 0 00.477-.353l5.251-17.093z" fill="url(#star_large_filled_svg__paint0_linear)"/>
+    </g>
+    <path d="M30.39 3.969c-.724-2.355-4.056-2.355-4.78 0l-4.925 16.033H4.744c-2.388 0-3.417 3.027-1.524 4.482l13.015 10.002-4.969 16.176c-.715 2.328 1.982 4.2 3.913 2.717L28 43.526l12.82 9.853c1.932 1.484 4.63-.389 3.914-2.717l-1.912.587 1.912-.587-4.97-16.176L52.78 24.484c1.893-1.455.864-4.482-1.524-4.482h-15.94L30.39 3.969zm9.069 29.521v.002-.002z" stroke="url(#star_large_filled_svg__paint1_linear)" stroke-width="4"/>
+    <g filter="url(#star_large_filled_svg__filter1_f)">
+        <path d="M38.232 21.082c.817-.263 1.504.407 1.731 2.024.26 1.847-.328 2.566-1.057 2.593-.73.028-1.15-.653-1.401-2.036-.252-1.383-.09-2.318.727-2.58z" fill="#fff"/>
+    </g>
+    <g filter="url(#star_large_filled_svg__filter2_f)">
+        <path d="M35.02 10.824l1.01 5.154 3.918 2.507-4.294 1.116-2.029 4.639-1.01-5.154-3.918-2.508 4.295-1.115 2.029-4.639z" fill="#fff"/>
+    </g>
+    <defs>
+        <filter id="star_large_filled_svg__filter0_i" x="-.765" y="-.797" width="56.53" height="56.714" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+            <feOffset dx="-2" dy="-2"/>
+            <feGaussianBlur stdDeviation=".5"/>
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+            <feColorMatrix values="0 0 0 0 0.784314 0 0 0 0 0.376471 0 0 0 0 0 0 0 0 0.54 0"/>
+            <feBlend in2="shape" result="effect1_innerShadow"/>
+        </filter>
+        <filter id="star_large_filled_svg__filter1_f" x="36.395" y="20.027" width="4.63" height="6.673" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <filter id="star_large_filled_svg__filter2_f" x="27.697" y="9.824" width="13.251" height="15.416" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+            <feGaussianBlur stdDeviation=".5" result="effect1_foregroundBlur"/>
+        </filter>
+        <linearGradient id="star_large_filled_svg__paint0_linear" x1="28" y1="3" x2="28" y2="58" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#D58C00"/>
+            <stop offset="1" stop-color="#FFB72B"/>
+        </linearGradient>
+        <linearGradient id="star_large_filled_svg__paint1_linear" x1="8.5" y1="8.156" x2="49.986" y2="52.827" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFC70B"/>
+            <stop offset="1" stop-color="#FFFCAC"/>
+        </linearGradient>
+    </defs>
+</svg>

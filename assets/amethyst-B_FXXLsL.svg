@@ -1,0 +1,31 @@
+<svg width="33" height="32" viewBox="0 0 33 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="amethyst_mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="2" width="24" height="27">
+<path d="M9.49447 12.6007L15.9887 7.59152L23.5739 10.7111L24.6649 18.8399L18.1707 23.8491L10.5854 20.7295L9.49447 12.6007Z" fill="#DF5CFF" stroke="#0C353F" stroke-width="6"/>
+</mask>
+<g mask="url(#amethyst_mask0)">
+<path d="M15.0708 4.51082C15.3537 4.29262 15.7315 4.24191 16.0619 4.3778L25.7829 8.37579C26.1133 8.51168 26.3462 8.81352 26.3937 9.16761L27.7919 19.5853C27.8394 19.9394 27.6944 20.2919 27.4115 20.5101L19.0886 26.9298C18.8057 27.148 18.4279 27.1987 18.0975 27.0628L8.37645 23.0648C8.04604 22.9289 7.81322 22.6271 7.76569 22.273L6.36753 11.8553C6.32001 11.5012 6.465 11.1487 6.74789 10.9305L15.0708 4.51082Z" fill="#8438CE"/>
+<path d="M17.1006 15.871L18.8519 28.9196L29.6702 20.5736L17.1006 15.871Z" fill="#6C319D"/>
+<path d="M17.0997 15.8711L15.3424 2.15068L4.07779 10.3044L17.0997 15.8711Z" fill="#F8D5FF" fill-opacity="0.9"/>
+<path d="M17.1016 15.8801L28.0452 7.4198L15.3115 1.83182L17.1016 15.8801Z" fill="#6C319D"/>
+<path d="M17.1868 15.9096L4.45341 10.5059L5.81146 24.3453L17.1868 15.9096Z" fill="#6C319D"/>
+<path d="M16.3035 9.93957L21.698 12.1582L22.4739 17.9392L17.8553 21.5017L12.4608 19.2831L11.6849 13.502L16.3035 9.93957Z" fill="#E35AFF"/>
+</g>
+<g filter="url(#amethyst_filter0_f)">
+<path d="M23.4946 10.7265C24.0461 10.4912 24.5749 10.8158 24.8514 11.7403C25.1673 12.7968 24.8085 13.2764 24.3008 13.365C23.7931 13.4537 23.4501 13.0967 23.1738 12.3111C22.8975 11.5256 22.9431 10.9617 23.4946 10.7265Z" fill="white"/>
+</g>
+<g filter="url(#amethyst_filter1_f)">
+<path d="M20.9658 3L22.0462 5.91964L24.9658 7L22.0462 8.08036L20.9658 11L19.8855 8.08036L16.9658 7L19.8855 5.91964L20.9658 3Z" fill="white"/>
+</g>
+<defs>
+<filter id="amethyst_filter0_f" x="22.0078" y="9.65271" width="3.96191" height="4.72558" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="amethyst_filter1_f" x="15.9658" y="2" width="10" height="10" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur"/>
+</filter>
+</defs>
+</svg>

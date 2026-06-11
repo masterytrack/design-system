@@ -1,0 +1,58 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#coin_filter0_i)">
+<circle cx="30" cy="29.6001" r="20" fill="url(#coin_paint0_linear)"/>
+</g>
+<g filter="url(#coin_filter1_dd)">
+<path d="M30 34.3636C30.6109 35.28 31.4291 36.0327 32.4 36.5455L30 38.9455L27.6 36.5455C28.5709 36.0327 29.4 35.28 30 34.3636ZM35.4545 29.1273C34.8759 29.1273 34.3209 29.3571 33.9118 29.7663C33.5026 30.1755 33.2727 30.7304 33.2727 31.3091C33.2727 31.8877 33.5026 32.4427 33.9118 32.8519C34.3209 33.261 34.8759 33.4909 35.4545 33.4909C36.0332 33.4909 36.5882 33.261 36.9973 32.8519C37.4065 32.4427 37.6364 31.8877 37.6364 31.3091C37.6364 30.7304 37.4065 30.1755 36.9973 29.7663C36.5882 29.3571 36.0332 29.1273 35.4545 29.1273ZM24.5455 29.1273C23.9668 29.1273 23.4118 29.3571 23.0027 29.7663C22.5935 30.1755 22.3636 30.7304 22.3636 31.3091C22.3636 31.8877 22.5935 32.4427 23.0027 32.8519C23.4118 33.261 23.9668 33.4909 24.5455 33.4909C25.1241 33.4909 25.6791 33.261 26.0882 32.8519C26.4974 32.4427 26.7273 31.8877 26.7273 31.3091C26.7273 30.7304 26.4974 30.1755 26.0882 29.7663C25.6791 29.3571 25.1241 29.1273 24.5455 29.1273ZM35.4545 26.4C36.6119 26.4 37.7218 26.8597 38.5401 27.6781C39.3584 28.4964 39.8182 29.6063 39.8182 30.7636C39.8182 31.9209 39.3584 33.0309 38.5401 33.8492C37.7218 34.6675 36.6119 35.1273 35.4545 35.1273C34.2972 35.1273 33.1873 34.6675 32.369 33.8492C31.5506 33.0309 31.0909 31.9209 31.0909 30.7636C31.0909 29.6063 31.5506 28.4964 32.369 27.6781C33.1873 26.8597 34.2972 26.4 35.4545 26.4ZM24.5455 26.4C25.7028 26.4 26.8127 26.8597 27.631 27.6781C28.4494 28.4964 28.9091 29.6063 28.9091 30.7636C28.9091 31.9209 28.4494 33.0309 27.631 33.8492C26.8127 34.6675 25.7028 35.1273 24.5455 35.1273C23.3881 35.1273 22.2782 34.6675 21.4599 33.8492C20.6416 33.0309 20.1818 31.9209 20.1818 30.7636C20.1818 29.6063 20.6416 28.4964 21.4599 27.6781C22.2782 26.8597 23.3881 26.4 24.5455 26.4ZM19.3527 18C21.2727 22.0364 19.8873 25.0473 18.6 28.0364C18.2073 28.9091 18 29.8145 18 30.7636C18 32.4996 18.6896 34.1645 19.9171 35.392C21.1446 36.6195 22.8095 37.3091 24.5455 37.3091C24.7745 37.2982 25.0036 37.2873 25.2327 37.2545L28.4618 40.4836L30 42L31.5382 40.4836L34.7673 37.2545C34.9964 37.2873 35.2255 37.2982 35.4545 37.3091C37.1905 37.3091 38.8554 36.6195 40.0829 35.392C41.3104 34.1645 42 32.4996 42 30.7636C42 29.8145 41.7927 28.9091 41.4 28.0364C40.1127 25.0473 38.7273 22.0364 40.6473 18C37.7673 20.2473 33.6655 22.0255 30 22.0364C26.3345 22.0255 22.2327 20.2473 19.3527 18Z" fill="url(#coin_paint1_linear)"/>
+</g>
+<g filter="url(#coin_filter2_f)">
+<path d="M43.5485 21.1992C44.5051 20.7911 45.4225 21.3541 45.902 22.9577C46.45 24.7904 45.8276 25.6222 44.9469 25.7759C44.0663 25.9297 43.4714 25.3104 42.9921 23.9479C42.5128 22.5853 42.5919 21.6073 43.5485 21.1992Z" fill="white"/>
+</g>
+<g filter="url(#coin_filter3_f)">
+<path d="M39.291 8L41.2154 13.2553L46.416 15.2L41.2154 17.1447L39.291 22.4L37.3666 17.1447L32.166 15.2L37.3666 13.2553L39.291 8Z" fill="white"/>
+</g>
+<defs>
+<filter id="coin_filter0_i" x="9" y="8.6001" width="41" height="41" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-2" dy="-2"/>
+<feGaussianBlur stdDeviation="0.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.784314 0 0 0 0 0.376471 0 0 0 0 0 0 0 0 0.54 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<filter id="coin_filter1_dd" x="0" y="0" width="60" height="60" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.721569 0 0 0 0 0.270588 0 0 0 0 0.0156863 0 0 0 0.55 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="9"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.721569 0 0 0 0 0.270588 0 0 0 0 0.0156863 0 0 0 0.75 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+</filter>
+<filter id="coin_filter2_f" x="41.7051" y="20.0712" width="5.40305" height="6.72768" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="coin_filter3_f" x="31.166" y="7" width="16.25" height="16.4" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur"/>
+</filter>
+<linearGradient id="coin_paint0_linear" x1="30" y1="9.6001" x2="30" y2="49.6001" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D58C00"/>
+<stop offset="1" stop-color="#FFB72B"/>
+</linearGradient>
+<linearGradient id="coin_paint1_linear" x1="21" y1="20.25" x2="39" y2="40.75" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFC70B"/>
+<stop offset="1" stop-color="#FFFCAC"/>
+</linearGradient>
+</defs>
+</svg>

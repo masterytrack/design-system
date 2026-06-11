@@ -1,0 +1,47 @@
+<svg width="16" height="27" viewBox="0 0 16 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="1.5" y1="6.5" x2="1.5" y2="26.5" stroke="url(#hourglass_paint0_linear)" stroke-linecap="round"/>
+<line x1="13.5" y1="6.5" x2="13.5" y2="26.5" stroke="url(#hourglass_paint1_linear)" stroke-linecap="round"/>
+<path d="M7.50043 15.5248L7.05532 15.4756C5.05568 15.2548 3.5 13.5587 3.5 11.5V9.5H11.5001L11.5004 10.9996V11.0001L11.5 11.4996V11.5C11.5 13.5585 9.94469 15.2543 7.94545 15.4755L7.50043 15.5248V15.5248ZM11.5009 21.5V23.5H3.50075L3.50043 22.0003L3.50043 21.9999L3.50043 21.9997L3.50043 21.9969L3.50045 21.9861L3.50049 21.9462L3.50064 21.8139L3.50085 21.5C3.50085 19.4415 5.05616 17.7457 7.05541 17.5245L7.50043 17.4752L7.94554 17.5244C9.94517 17.7452 11.5009 19.4413 11.5009 21.5Z" fill="#00365A" stroke="white"/>
+<path d="M4 23C4 23 7 20 7.5 20C8 20 11 23 11 23H4Z" fill="#C6FF5B"/>
+<path d="M11.0643 10C11.0643 10 12.1282 15 7.56408 15C3 15 3.9997 10 3.9997 10L11.0643 10Z" fill="#C6FF5B"/>
+<rect y="7" width="15" height="2" fill="#9D4B00"/>
+<rect y="24" width="15" height="2" fill="#9D4B00"/>
+<mask id="hourglass_mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="9" width="10" height="15">
+<path d="M7.50043 15.5248L7.05532 15.4756C5.05568 15.2548 3.5 13.5587 3.5 11.5V9.5H11.5001L11.5004 10.9996V11.0001L11.5 11.4996V11.5C11.5 13.5585 9.94469 15.2543 7.94545 15.4755L7.50043 15.5248V15.5248ZM11.5009 21.5V23.5H3.50075L3.50043 22.0003L3.50043 21.9999L3.50043 21.9997L3.50043 21.9969L3.50045 21.9861L3.50049 21.9462L3.50064 21.8139L3.50085 21.5C3.50085 19.4415 5.05616 17.7457 7.05541 17.5245L7.50043 17.4752L7.94554 17.5244C9.94517 17.7452 11.5009 19.4413 11.5009 21.5Z" fill="#C4C4C4" stroke="white"/>
+</mask>
+<g mask="url(#hourglass_mask0)">
+<rect x="2" y="7" width="5.5" height="19" fill="white" fill-opacity="0.5"/>
+</g>
+<mask id="hourglass_mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="9" width="10" height="15">
+<path d="M7.50055 15.5248L7.94566 15.4756C9.94529 15.2548 11.501 13.5587 11.501 11.5V9.5H3.50087L3.50055 10.9996V11.0001L3.50098 11.4996V11.5C3.50098 13.5585 5.05629 15.2543 7.05553 15.4755L7.50055 15.5248V15.5248ZM3.50012 21.5V23.5H11.5002L11.5005 22.0003L11.5005 21.9999L11.5005 21.9997L11.5005 21.9969L11.5005 21.9861L11.5005 21.9462L11.5003 21.8139L11.5001 21.5C11.5001 19.4415 9.94481 17.7457 7.94557 17.5245L7.50055 17.4752L7.05544 17.5244C5.05581 17.7452 3.50012 19.4413 3.50012 21.5Z" fill="#C4C4C4" stroke="white"/>
+</mask>
+<g mask="url(#hourglass_mask1)">
+<rect width="5.5" height="19" transform="matrix(-1 0 0 1 13.001 7)" fill="#F9AC00" fill-opacity="0.4" style="mix-blend-mode:hard-light"/>
+</g>
+<g filter="url(#hourglass_filter0_f)">
+<path d="M12.6248 12.074C13.2995 11.8733 13.8672 12.3848 14.0551 13.6181C14.2698 15.0275 13.7838 15.5759 13.1812 15.597C12.5785 15.6181 12.2315 15.0988 12.0237 14.0434C11.8159 12.9879 11.9502 12.2748 12.6248 12.074Z" fill="white"/>
+</g>
+<g filter="url(#hourglass_filter1_f)">
+<path d="M10.8007 1.7276L11.635 5.66008L14.8714 7.57359L11.3235 8.42493L9.64743 11.9644L8.8131 8.03189L5.5767 6.11838L9.12458 5.26704L10.8007 1.7276Z" fill="white"/>
+</g>
+<defs>
+<filter id="hourglass_filter0_f" x="10.9336" y="11.0317" width="4.17279" height="5.56594" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur"/>
+</filter>
+<filter id="hourglass_filter1_f" x="4.57715" y="0.727539" width="11.2947" height="12.2368" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur"/>
+</filter>
+<linearGradient id="hourglass_paint0_linear" x1="-4.79389e-07" y1="16.5" x2="1" y2="16.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DEC174"/>
+<stop offset="1" stop-color="#FFF0C8"/>
+</linearGradient>
+<linearGradient id="hourglass_paint1_linear" x1="12" y1="16.5" x2="13" y2="16.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DEC174"/>
+<stop offset="1" stop-color="#FFF0C8"/>
+</linearGradient>
+</defs>
+</svg>

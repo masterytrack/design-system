@@ -1,0 +1,1 @@
+import{j as l,L as t,c as s}from"./app-C59A5iCL.js";const i=e=>l.jsx("div",{className:s("ll-page-template",e.className),style:e.style,children:l.jsxs("div",{className:"ll-page-template-content",children:[e.title?l.jsx(t,{t:"h5",children:e.title}):null,e.subtitle?l.jsx("p",{children:e.subtitle}):null,e.children]})});export{i as P};

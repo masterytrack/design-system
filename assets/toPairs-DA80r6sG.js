@@ -1,0 +1,1 @@
+import{lr as i,ls as s,lt as e,ch as o}from"./app-C59A5iCL.js";function u(t,r){return i(r,function(a){return[a,t[a]]})}function f(t){var r=-1,a=Array(t.size);return t.forEach(function(n){a[++r]=[n,n]}),a}var c="[object Map]",T="[object Set]";function p(t){return function(r){var a=s(r);return a==c?e(r):a==T?f(r):u(r,t(r))}}var m=p(o);export{m as t};

@@ -1,0 +1,1 @@
+import{f as o,t as r}from"./learningResourceFriendFile-JewRnMmZ.js";import{lg as s}from"./app-C59A5iCL.js";const p=t=>({...o(t),type:s.BOOK}),a=t=>({...r(t),type:"book"}),f=t=>a(t),l={};export{f as a,p as f,l as h,a as t};

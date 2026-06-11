@@ -1,0 +1,8 @@
+<svg width="134" height="242" preserveAspectRatio="none" viewBox="0 0 134 242" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <mask id="shine_svg__a" maskUnits="userSpaceOnUse" x="0" y="0" width="134" height="242">
+        <path transform="translate(0 .568)" fill="#B0D9FF" d="M0 0h134v240.863H0z"/>
+    </mask>
+    <g mask="url(#shine_svg__a)" fill="#fff" fill-opacity=".2">
+        <path d="M-91.445-114.458l14.036-10.014 226.855 540.636-14.036 10.014zM-76.959-142.521l57.57-41.072 236.807 564.355-57.57 41.072z"/>
+    </g>
+</svg>
